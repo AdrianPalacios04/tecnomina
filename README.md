@@ -1,0 +1,2 @@
+# tecnomina
+Proyecto de pasantias
